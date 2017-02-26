@@ -17,7 +17,7 @@ def blur(image, x, y):
     return (total / 9)
 
 def boxBlur(image):
-    rows = len(image)
+    rows    = len(image)
     columns = len(image[0])
 
     answers = []
