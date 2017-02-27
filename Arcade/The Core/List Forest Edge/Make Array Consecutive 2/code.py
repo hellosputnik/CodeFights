@@ -9,4 +9,3 @@ def makeArrayConsecutive2(statues):
 
     return orders
 
-
